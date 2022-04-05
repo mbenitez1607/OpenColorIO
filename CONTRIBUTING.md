@@ -225,7 +225,7 @@ Please see the OpenColorIO
 for a reference on project code style and best practices.
 
 For standards on contributing to documentation, see the
-[Documentation guidelines](http://opencolorio.org/developers/documentation_guidelines.html).
+[Documentation guidelines](https://opencolorio.readthedocs.io/en/latest/guides/contributing/contributing.html#documentation-guidelines).
 
 ## Test Policy
 
